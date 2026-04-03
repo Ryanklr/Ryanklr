@@ -23,4 +23,4 @@ Je suis actuellement étudiant en informatique et à la recherche d'une alternan
 * Travail en équipe et grande capacité d'adaptation.
 
 ## 📫 Me Contacter
-* **LinkedIn :** [Lien vers ton profil LinkedIn]
+* **LinkedIn :** https://www.linkedin.com/in/ryan-bachatene-1456ab330/

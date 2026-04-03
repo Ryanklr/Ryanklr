@@ -21,6 +21,3 @@ Je suis actuellement étudiant en informatique et à la recherche d'une alternan
 ## 💼 Compétences Transversales
 * Autonomie, rigueur et organisation.
 * Travail en équipe et grande capacité d'adaptation.
-
-## 📫 Me Contacter
-* **LinkedIn :** https://www.linkedin.com/in/ryan-bachatene-1456ab330/
